@@ -61,5 +61,3 @@ Software abierto para análisis de datos cualitativos, desarrollado en Python. E
 
 - lorenzo_vives@uc.cl
 - Santiago, Chile
-
-<p align="center"><i>Sociólogo de formación, programador por necesidad de responder mejores preguntas con datos.</i></p>
