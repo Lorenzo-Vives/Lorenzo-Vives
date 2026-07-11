@@ -17,7 +17,7 @@ Mi foco técnico está en:
 
 - **Modelamiento estadístico y regresiones**: modelos OLS, LOGIT, multinivel, y estadística inferencial no causal en general
 - **Visualización de datos** para comunicar resultados de investigación de forma clara
-- **Análisis de redes sociales (SNA)**
+- **Análisis de redes sociales (SNA)**: ERGM's, visualización de redes en R (igraph)
 - Análisis cualitativo (codificación, entrevistas, grupos focales) con MAXQDA / Dedoose
 - **Desarrollo de software abierto**, con foco en investigación y docencia
 
@@ -27,7 +27,7 @@ Actualmente trabajo en la **Escuela de Gobierno UC**, en proyectos como el Siste
 
 ### Proyecto destacado
 
-#### [RaizQA](https://github.com/Lorenzo-Vives/RaizQA)
+#### [RaizQA](https://github.com/Lorenzo-Vives/RaizQA) 🌱
 Software abierto para análisis de datos cualitativos, desarrollado en Python. Este software permite codificar entrevistas e imágenes, crear códigos, memos y realizar análisis cualitativo con herramientas de análisis específicas para investigaciones cualitativas. Revisa más sobre el proyecto aquí: [github.com/Lorenzo-Vives/RaizQA](https://github.com/Lorenzo-Vives/RaizQA)
 
 ---
