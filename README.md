@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Lorenzo Vives</h1>
+<h1 align="center">Hola! :) </h1>
 <h3 align="center">Sociólogo & Data Scientist — Modelamiento, Regresiones y Visualización de Datos</h3>
 
 <p align="center">
